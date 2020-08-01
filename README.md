@@ -1,14 +1,13 @@
 # Cpp-Tutorials
 Example application in Cpp Language
 
-
-  ##Bisection Method Procedure:
+##    Bisection Method Procedure:
   
-      The input for the method is a continuous function f,
-      an interval [a, b], and the function values f(a) and f(b).
-      The function values are of opposite sign (there is at least
-      one zero crossing within the interval).
-      ######Each iteration performs these steps:
+          The input for the method is a continuous function f,
+          an interval [a, b], and the function values f(a) and f(b).
+          The function values are of opposite sign (there is at least
+          one zero crossing within the interval).
+ ######   Each iteration performs these steps:
 
 1. Calculate the midpoint c = (a + b)/2
 
